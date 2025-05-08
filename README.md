@@ -1,0 +1,1 @@
+# Solution-to-50-Practice-Queries-of-Northwind-Database-
